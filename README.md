@@ -1,2 +1,1 @@
-# PrepCourse
-Repositorio de prueba del modulo 2 del Prepcourse Henry
+esta es una prueba de como crear un repositorio de github a mi computadora
